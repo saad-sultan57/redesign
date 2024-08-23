@@ -753,6 +753,9 @@ padding-bottom: 40px;
 }
 
 @media only screen and (max-width:768px) {
+  .mt-120{
+    margin-top: 150px;
+  }
 .single_footer{margin-bottom:30px;}
 }
 .single_footer h4 {
