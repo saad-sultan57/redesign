@@ -671,7 +671,11 @@
     cursor: pointer;
     border-radius: 10px;
     overflow: hidden;
+    height: 210px;
 
+  }
+  #cards .subbox img{
+    object-fit: cover;
   }
   #cards .subbox-overlay{
     position: absolute;
